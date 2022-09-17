@@ -17,10 +17,10 @@
 
 
 ## :sassy_woman:  About me
-- :school: I am a Computer Science Junior
+- :school: I am a Computer Science Senior 
 <!-- - :trophy: `ACPC` Finalist 2021 -->
 - :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `CodeChef (currently 3 stars)`
+- :computer: I am a competitive programmer mainly at `CodeChef (currently 4 stars -1874 ranking)`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m open for: `An Intern` or a new `job opportunity`
 <!-- -  this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing). -->
