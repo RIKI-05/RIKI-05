@@ -28,6 +28,9 @@
 
 <br>
 
+# Hacktoberfest 2022
+[![@rikirocks's Holopin board](https://holopin.io/api/user/board?user=rikirocks)](https://holopin.io/@rikirocks)
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
 
